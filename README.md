@@ -23,5 +23,7 @@ AI-driven behavioral monitoring system designed to detect suspicious activities 
 Java Swing-based full business management dashboard with role-based access.
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot001&theme=github_dark)
+
+
+![Snake animation](https://github.com/prajyot001/prajyot001/blob/output/github-contribution-grid-snake.svg)
