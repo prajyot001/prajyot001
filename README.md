@@ -24,5 +24,4 @@ Java Swing-based full business management dashboard with role-based access.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot001&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot001&theme=github_dark)
