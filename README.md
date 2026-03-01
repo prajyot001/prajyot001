@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/prajyot001/prajyot001/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/prajyot001/prajyot001/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
 # Prajyot Patil
 
 ### Engineering Intelligent & Secure Digital Systems
