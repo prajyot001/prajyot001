@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/prajyot001/prajyot001/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Engineering Intelligent & Secure Digital Systems)](https://git.io/typing-svg)
+  <b>Engineering Intelligent & Secure Digital Systems</b>
 </p>
 
 ## 🚀 About Me
