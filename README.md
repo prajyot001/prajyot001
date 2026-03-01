@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/prajyot001/prajyot001/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
-# Prajyot Patil
-
-### Engineering Intelligent & Secure Digital Systems
-
----
+<p align="center">
+  <b>Engineering Intelligent & Secure Digital Systems</b>
+</p>
 
 ## 🚀 About Me
 Engineering student focused on building intelligent, scalable and secure backend systems.  
