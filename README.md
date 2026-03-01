@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/prajyot001/prajyot001/main/Black Minimalist Corporate Business Personal Profile LinkedIn Banner.jpg" width="100%" />
 <p align="center">
-  <b>Engineering Intelligent & Secure Digital Systems</b>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=Engineering Intelligent & Secure Digital Systems)](https://git.io/typing-svg)
 </p>
 
 ## 🚀 About Me
@@ -23,5 +23,5 @@ AI-driven behavioral monitoring system designed to detect suspicious activities 
 Java Swing-based full business management dashboard with role-based access.
 
 ---
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyot001&theme=github_dark)
