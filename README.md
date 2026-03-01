@@ -1,16 +1,29 @@
-## Hi there 👋
+# Prajyot Patil
 
-<!--
-**prajyot001/prajyot001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Intelligent & Secure Digital Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Engineering student focused on building intelligent, scalable and secure backend systems.  
+Currently working on AI-powered Insider Threat Detection System.
+
+---
+
+## 🛠 Tech Stack
+Java • Spring Boot • React • FastAPI • MySQL • AI/ML
+
+---
+
+## 🔐 Featured Project
+
+### Insider Threat Detection System
+AI-driven behavioral monitoring system designed to detect suspicious activities using risk scoring and escalation models.
+
+### Inventory & Billing System
+Java Swing-based full business management dashboard with role-based access.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot001&show_icons=true&theme=tokyonight)
